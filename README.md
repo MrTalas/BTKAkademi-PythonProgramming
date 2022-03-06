@@ -1,3 +1,3 @@
 # BTKAkademi-PythonProgramming
 
-## BTK Akademi Kurs uygulamaları.
+### BTK Akademi Kurs uygulamaları.
