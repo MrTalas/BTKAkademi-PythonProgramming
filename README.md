@@ -4,4 +4,4 @@
 
 ### BTK Akademi Kurs uygulamaları.
 
-**27.02.2022-27.03.2022 Tarihleri arasında gerçekleştirilmiş olan yüzyüze "Liselere Yönelik Python Eğitimi" kursu.**
+**27.02.2022-27.03.2022 Tarihleri arasında gerçekleştirilmiş olan yüz yüze "Liselere Yönelik Python Eğitimi" kursu.**
